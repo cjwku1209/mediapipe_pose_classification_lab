@@ -34,11 +34,12 @@ Ensure that you have the following installed on your machine:
    pip install opencv-python==4.10.0
    pip install tqdm==4.66.5
    pip install mediapipe==0.10.15
-3. Download dataset folder (link) [https://drive.google.com/file/d/1nj6-rqEfIQ5ZcFOJb_shtLlfb2b6Xe7a/view?usp=sharing]
+3. Download dataset folder [link] (https://drive.google.com/file/d/1nj6-rqEfIQ5ZcFOJb_shtLlfb2b6Xe7a/view?usp=sharing)
    - Drag downloaded dataset folder into your cloned repository
   
 ### Running the Code
 
 ```bash
 python main.py
+```
       
