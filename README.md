@@ -1,10 +1,10 @@
 # Pose Classification with MediaPipe
 
-![classification](https://camo.githubusercontent.com/b1890b67014a25a7be1fdca0d512be1ec0d435aafe52040f690fe406c8e6bd42/68747470733a2f2f6d65646961706970652e6465762f696d616765732f6d6f62696c652f706f73655f636c617373696669636174696f6e5f707573687570735f616e645f7371756174732e676966))
-
 ## Overview
 
 This repository contains code adapted from the [MediaPipe Pose Classification](https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/pose_classification.md) solution developed by Google AI Edge. 
+
+![classification](https://camo.githubusercontent.com/b1890b67014a25a7be1fdca0d512be1ec0d435aafe52040f690fe406c8e6bd42/68747470733a2f2f6d65646961706970652e6465762f696d616765732f6d6f62696c652f706f73655f636c617373696669636174696f6e5f707573687570735f616e645f7371756174732e676966)
 
 ## Features
 
