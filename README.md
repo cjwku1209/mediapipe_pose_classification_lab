@@ -16,17 +16,16 @@ This repository contains code adapted from the [MediaPipe Pose Classification](h
 
 Ensure that you have the following installed on your machine:
 
-- Python 3.x
-- OpenCV
-- TensorFlow (optional for custom pose training)
+- Python 3.9
+- Matplotlib
 - MediaPipe library
 
 ### Installation
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/yourusername/yourrepository.git](https://github.com/cjwku1209/mediapipe_pose_classification_lab.git)
-   cd yourrepository
+   git clone https://github.com/cjwku1209/mediapipe_pose_classification_lab.git
+   cd mediapipe_pose_classification_lab
 2. Install python packages:
    ```bash
    pip install pillow==11.0.0
@@ -35,3 +34,11 @@ Ensure that you have the following installed on your machine:
    pip install opencv-python==4.10.0
    pip install tqdm==4.66.5
    pip install mediapipe==0.10.15
+3. Download dataset folder (link) [https://drive.google.com/file/d/1nj6-rqEfIQ5ZcFOJb_shtLlfb2b6Xe7a/view?usp=sharing]
+   - Drag downloaded dataset folder into your cloned repository
+  
+### Running the Code
+
+```bash
+python main.py
+      
