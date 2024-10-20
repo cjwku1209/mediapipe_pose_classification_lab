@@ -1,5 +1,7 @@
 # Pose Classification with MediaPipe
 
+![Funny Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 ## Overview
 
 This repository contains code adapted from the [MediaPipe Pose Classification](https://github.com/google-ai-edge/mediapipe/blob/master/docs/solutions/pose_classification.md) solution developed by Google AI Edge. 
